@@ -1,2 +1,2 @@
-## Python Student Data Collector
+## Student Data Collector
 Data will be collected to a add.txt file
